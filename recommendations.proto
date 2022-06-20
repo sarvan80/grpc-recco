@@ -25,3 +25,4 @@ service Recommendations {
     rpc Recommend (RecommendationRequest) returns (RecommendationResponse);
 }
 //
+//
