@@ -24,5 +24,4 @@ message RecommendationResponse {
 service Recommendations {
     rpc Recommend (RecommendationRequest) returns (RecommendationResponse);
 }
-//
-//
+
