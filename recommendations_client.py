@@ -1,0 +1,1 @@
+from recommendations_pb2 import BookCategory, RecommendationRequest
